@@ -5,17 +5,10 @@ direct link
 
 https://raw.githubusercontent.com/jawz101/MobileAdsTrackers/refs/heads/main/hosts.txt
 
-I used to maintain a list called MobileAdsTrackers.  Later, I took up maintaining the Adaway blocklist as it had stagnated and the mobile ads and analytics ecosystem had rapidly evolved in the mid 2010's.  Since then, many ad companies have shut down or been bought by bigger companies and there really are not as many relevant domains.
+This blocklist is a highly-curated, small list designed to block ads and trackers used only by mobile apps.
 
-This list is meant to block domains that are only used by mobile apps.
+I originally maintained the "MobileAdsTrackers" list before taking over the Adaway blocklist, which had fallen behind the rapidly evolving mobile ad ecosystem of the mid-2010s. The list is intentionally small, as many old ad companies have since been bought or shut down.
 
-Step 1:
-Remove web browsing noise:
-Install a browser that has an ad blocker.  e.g. Firefox for Android + uBlock Origin or Chrome + DNS over HTTPS pointing to a pi-Hole, NextDNS or something.
+It is designed to filter device-level app traffic (e.g., via Android's Private DNS or a VPN) and must be paired with a separate ad blocker for web browsing.
 
-Step 2:
-Use Android's Private DNS feature and point it to a DNS over TLS server or use a VPN-based ad blocker.  Thiiiis list is for that traffic.  Your browser blocks at the browser level and this only needs stuff to block ads in the rest of your apps.
-
-I also want to only keep domains that are still relevant- so I occasionally download Cisco Umbrella's Top 1 Million list and remove any on this list not seen on that list.
-
-If all of that is confusing or you don't have an ad blocker for your web browser- use a bigger list than this one because it's a very narrow purpose.  It's meant to be tiny and combined with other blocking solutions.  People have these million row megalists and 90% of them are dead domains- so this is just what is needed.
+To ensure the list remains efficient, I regularly remove dead domains by checking them against lists of active sites (like Cisco Umbrella's Top 1 Million).
