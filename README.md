@@ -16,5 +16,6 @@ Install a browser that has an ad blocker.  e.g. Firefox for Android + uBlock Ori
 Step 2:
 Use Android's Private DNS feature and point it to a DNS over TLS server or use a VPN-based ad blocker.  Thiiiis list is for that traffic.  Your browser blocks at the browser level and this only needs stuff to block ads in the rest of your apps.
 
-
 I also want to only keep domains that are still relevant- so I occasionally download Cisco Umbrella's Top 1 Million list and remove any on this list not seen on that list.
+
+If all of that is confusing or you don't have an ad blocker for your web browser- use a bigger list than this one because it's a very narrow purpose.  It's meant to be tiny and combined with other blocking solutions.  People have these million row megalists and 90% of them are dead domains- so this is just what is needed.
