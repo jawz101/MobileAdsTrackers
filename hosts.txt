@@ -14,7 +14,6 @@
 127.0.0.1 rules3.aatkit.com
 127.0.0.1 tracking.aatkit.com
 127.0.0.1 api.abcsinsights.com
-127.0.0.1 ak1s.abmr.net
 127.0.0.1 tr.acobt.tech
 127.0.0.1 track.activemetering.com
 127.0.0.1 activemetering.com
@@ -27,7 +26,6 @@
 127.0.0.1 track.adfault.com
 127.0.0.1 adx.adform.net
 127.0.0.1 server.adhub.media
-127.0.0.1 edge.aditude.io
 127.0.0.1 raven-edge.aditude.io
 127.0.0.1 app.adjust.com
 127.0.0.1 s2s.adjust.com
@@ -49,7 +47,6 @@
 127.0.0.1 theweathercompany.data.adobedc.net
 127.0.0.1 compass.adop.cc
 127.0.0.1 imp.adpearance.com
-127.0.0.1 assets1.adroll.com
 127.0.0.1 adrta.com
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 mobile.adsafeprotected.com
@@ -76,7 +73,6 @@
 127.0.0.1 zc.adswizz.com
 127.0.0.1 ad.as.amanad.adtdp.com
 127.0.0.1 a.adtng.com
-127.0.0.1 ep1.adtrafficquality.google
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 carrick-ui.advoncommerce.com
 127.0.0.1 e-11666.adzerk.net
@@ -108,7 +104,6 @@
 127.0.0.1 aj1559.online
 127.0.0.1 int.akisinn.info
 127.0.0.1 int.akisinn.site
-127.0.0.1 insights.algolia.io
 127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
 127.0.0.1 jedi-logs-os-new.us-west-1.log.aliyuncs.com
@@ -125,7 +120,6 @@
 127.0.0.1 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 127.0.0.1 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 127.0.0.1 vfw.amazon-adsystem.com
-127.0.0.1 amazon-adsystem.com
 127.0.0.1 comet-test-fr.s3.eu-central-1.amazonaws.com
 127.0.0.1 kinesis.eu-west-1.amazonaws.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
@@ -315,7 +309,6 @@
 127.0.0.1 api.avo.app
 127.0.0.1 www.awin1.com
 127.0.0.1 vwdnrqq1.r.us-west-2.awstrack.me
-127.0.0.1 pbs-us-east.ay.delivery
 127.0.0.1 northeurope-5.in.applicationinsights.azure.com
 127.0.0.1 api.b2c.com
 127.0.0.1 hm.baidu.com
@@ -360,7 +353,6 @@
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 2193c945c005e161c04fb39a863b3d3b.otlp.bugsnag.com
 127.0.0.1 95b47de8a4039b20203d31c0d40a23eb.otlp.bugsnag.com
-127.0.0.1 pixel.byspotify.com
 127.0.0.1 api.bytebrew.io
 127.0.0.1 cartsee-form-c.cartx.cloud
 127.0.0.1 image.cartx.cloud
@@ -546,7 +538,6 @@
 127.0.0.1 doh.cq0.co
 127.0.0.1 prebid-us.creativecdn.com
 127.0.0.1 privacy.crwdcntrl.net
-127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 in.cuebiq.com
 127.0.0.1 assets.customer.io
 127.0.0.1 e.customeriomail.com
@@ -554,7 +545,6 @@
 127.0.0.1 api-sdk.datadome.co
 127.0.0.1 prebid.dblks.net
 127.0.0.1 match.deepintent.com
-127.0.0.1 nbcuss.demdex.net
 127.0.0.1 samsungelectronicsamericainc.demdex.net
 127.0.0.1 statgw.devtodev.com
 127.0.0.1 int.dewrain.life
@@ -588,7 +578,6 @@
 127.0.0.1 www.dwin2.com
 127.0.0.1 vr46.dxnt.net
 127.0.0.1 bf20578xco.bf.dynatrace.com
-127.0.0.1 bf43857tnb.bf.dynatrace.com
 127.0.0.1 bf57182ppy.bf.dynatrace.com
 127.0.0.1 bf80003iun.bf.dynatrace.com
 127.0.0.1 bf90969srk.bf.dynatrace.com
@@ -668,7 +657,6 @@
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 a314.gameloft.com
 127.0.0.1 secure.gaug.es
-127.0.0.1 cdn.gbqofs.com
 127.0.0.1 p.gcprivacy.com
 127.0.0.1 related.geekpulse.net
 127.0.0.1 analytics-api.gemcommerce.com
@@ -721,7 +709,6 @@
 127.0.0.1 warbyparker.hrzn-nxt.com
 127.0.0.1 weightwatchers.hrzn-nxt.com
 127.0.0.1 zocdoc.hrzn-nxt.com
-127.0.0.1 js-eu1.hs-scripts.com
 127.0.0.1 eventtracking.hubapi.com
 127.0.0.1 doppler.hulu.com
 127.0.0.1 t2.hulu.com
@@ -796,7 +783,6 @@
 127.0.0.1 u.kueezrtb.com
 127.0.0.1 ulkle.kwikhang.com
 127.0.0.1 pb.ladsp.com
-127.0.0.1 scnd.landsend.com
 127.0.0.1 svhil.landsend.com
 127.0.0.1 d.lazybumblebee.com
 127.0.0.1 api.leanplum.com
@@ -843,7 +829,6 @@
 127.0.0.1 cdn.mediago.io
 127.0.0.1 gbid.mediago.io
 127.0.0.1 exchange.mediavine.com
-127.0.0.1 scripts.mediavine.com
 127.0.0.1 metaconex.io
 127.0.0.1 cm.mgid.com
 127.0.0.1 cxkacncr.micpn.com
@@ -855,7 +840,6 @@
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api-secure.mixpanel.com
 127.0.0.1 decide.mixpanel.com
-127.0.0.1 a.mktgcdn.com
 127.0.0.1 dynl.mktgcdn.com
 127.0.0.1 dynm.mktgcdn.com
 127.0.0.1 adsmetadata.mobileadexchange.net
@@ -881,7 +865,6 @@
 127.0.0.1 mpd.mxptint.net
 127.0.0.1 video-ads-module.ad-tech.nbcuni.com
 127.0.0.1 osimg.nbcuni.com
-127.0.0.1 sas-apm-prod.telemetry.nbcuott.com
 127.0.0.1 pardot.nelp-campaigns.org
 127.0.0.1 app.adjust.net.in
 127.0.0.1 6068353e-655b-4b24-91a1-0e349a9c55ee.darnuid.netflix.com
@@ -891,7 +874,6 @@
 127.0.0.1 analytics.nianticlabs.com
 127.0.0.1 lciapi.ninthdecimal.com
 127.0.0.1 cdn-gl.nmrodam.com
-127.0.0.1 lma.npaw.com
 127.0.0.1 log-api.dualstack.nr-data.net
 127.0.0.1 ntv.io
 127.0.0.1 event.octillion.tv
@@ -903,7 +885,6 @@
 127.0.0.1 lplfinancial.sc.omtrdc.net
 127.0.0.1 nbcstreaming.sc.omtrdc.net
 127.0.0.1 fmrcorp.tt.omtrdc.net
-127.0.0.1 landsend.tt.omtrdc.net
 127.0.0.1 unitedhealthgroup.tt.omtrdc.net
 127.0.0.1 api.onegg.site
 127.0.0.1 mobile-data.onetrust.io
@@ -915,9 +896,7 @@
 127.0.0.1 openx.net
 127.0.0.1 opr.adx.opera.com
 127.0.0.1 t-odx.op-mobile.opera.com
-127.0.0.1 cdn-pci.optimizely.com
 127.0.0.1 front.optimonk.com
-127.0.0.1 c.oracleinfinity.io
 127.0.0.1 a.orbsrv.com
 127.0.0.1 s.orbsrv.com
 127.0.0.1 sync.outbrain.com
@@ -931,7 +910,6 @@
 127.0.0.1 parsely.com
 127.0.0.1 ad.particlenews.com
 127.0.0.1 log.particlenews.com
-127.0.0.1 b.stats.paypal.com
 127.0.0.1 boot.pbstck.com
 127.0.0.1 cdn.pbxai.com
 127.0.0.1 floor.pbxai.com
@@ -972,7 +950,6 @@
 127.0.0.1 tags.qortex.ai
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 h.trace.qq.com
-127.0.0.1 zn0neqx1dggrrlv4y-uhgenterprise.siteintercept.qualtrics.com
 127.0.0.1 znb0wk6ouf3bnzjnk-fmrwi.siteintercept.qualtrics.com
 127.0.0.1 zncvgjh8lmjxbkyln-fmrpi.siteintercept.qualtrics.com
 127.0.0.1 rules.quantcount.com
@@ -980,7 +957,6 @@
 127.0.0.1 rl.quantummetric.com
 127.0.0.1 quicklyedit.com
 127.0.0.1 a.quora.com
-127.0.0.1 repo.rakanto.com
 127.0.0.1 ecom-app.rakutenadvertising.io
 127.0.0.1 display.ravm.tv
 127.0.0.1 analytics.rayjump.com
@@ -999,9 +975,7 @@
 127.0.0.1 trackifyx.redretarget.com
 127.0.0.1 cdn-v2.reelup.io
 127.0.0.1 wetteronline-pbs.relevant-digital.com
-127.0.0.1 tag.researchnow.com
 127.0.0.1 researchnow.com
-127.0.0.1 cdn.resonate.com
 127.0.0.1 publish.responsiveads.com
 127.0.0.1 api.revenuads.com
 127.0.0.1 p.rfihub.com
@@ -1012,13 +986,11 @@
 127.0.0.1 sjc-372.sjc-rtb1.rfihub.com
 127.0.0.1 bi-tracker-global.rivergame.net
 127.0.0.1 tatracker-us.rivergame.net
-127.0.0.1 ats.rlcdn.com
 127.0.0.1 sr.rlcdn.com
 127.0.0.1 cdn.rlets.com
 127.0.0.1 mobile.logs.roku.com
 127.0.0.1 scribe.logs.roku.com
 127.0.0.1 pnypohfbb.cc.rs6.net
-127.0.0.1 ads.rubiconproject.com
 127.0.0.1 prebid-a.rubiconproject.com
 127.0.0.1 api.rudderlabs.com
 127.0.0.1 static.runconverge.com
@@ -1038,7 +1010,6 @@
 127.0.0.1 raven-spacetime.aprod.scopely.io
 127.0.0.1 config.sdk.scopely.io
 127.0.0.1 census-app.scorecardresearch.com
-127.0.0.1 connect.scroll.com
 127.0.0.1 pixel-conversion.apps.seabroadnet.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 api.segment.io
@@ -1127,8 +1098,6 @@
 127.0.0.1 ir.surveywall-api.survata.com
 127.0.0.1 survata.com
 127.0.0.1 events.swishapps.ai
-127.0.0.1 syndicatedsearch.goog
-127.0.0.1 s2s.t13.io
 127.0.0.1 api.taboola.com
 127.0.0.1 beacon.taboola.com
 127.0.0.1 pm-widget.taboola.com
@@ -1174,10 +1143,8 @@
 127.0.0.1 api.tradplusad.com
 127.0.0.1 event.tradplusad.com
 127.0.0.1 media.trafficjunky.net
-127.0.0.1 tranquilveranda.com
 127.0.0.1 img.transistorcdn.com
 127.0.0.1 events.tremorhub.com
-127.0.0.1 js.trendmd.com
 127.0.0.1 app.trialfire.com
 127.0.0.1 wpx.svc.trueprofit.io
 127.0.0.1 app.trueroas.io
@@ -1244,7 +1211,6 @@
 127.0.0.1 thesoul-publishing-com.videoplayerhub.com
 127.0.0.1 mpp.vindicosuite.com
 127.0.0.1 ucid.vindicosuite.com
-127.0.0.1 tr.vitals.co
 127.0.0.1 analytics.internal-tools.vizor-games.com
 127.0.0.1 stun.voiparound.com
 127.0.0.1 crosspromo.voodoo.io
@@ -1262,14 +1228,12 @@
 127.0.0.1 vupulse.com
 127.0.0.1 engage.vzw.com
 127.0.0.1 tags.w55c.net
-127.0.0.1 drfdisvc.walmart.com
 127.0.0.1 waust.at
 127.0.0.1 airlytics.airlock.twcmobile.weather.com
 127.0.0.1 and-ads.pulse.weatherbug.net
 127.0.0.1 widget.wickedreports.com
 127.0.0.1 analytics.wildlifestudios.com
 127.0.0.1 conversion-value-assets.wildlifestudios.com
-127.0.0.1 panorama.wixapps.net
 127.0.0.1 sdk.api.oaid.wocloud.cn
 127.0.0.1 api.wonderpush.com
 127.0.0.1 api.wortise.com
@@ -1293,9 +1257,7 @@
 127.0.0.1 ads-bi.zenkube.com
 127.0.0.1 databoat.zenkube.com
 127.0.0.1 ponos.zeronaught.com
-127.0.0.1 metrics.zeustechnology.com
 127.0.0.1 pb.zeustechnology.com
-127.0.0.1 wapo.zeustechnology.com
 127.0.0.1 m.optout.ziffdavis.com
 127.0.0.1 us.telemetry.zoom.us
 127.0.0.1 zap.cdn.zynga.com
