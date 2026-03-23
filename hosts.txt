@@ -84,7 +84,6 @@
 127.0.0.1 ad.as.amanad.adtdp.com
 127.0.0.1 a.adtng.com
 127.0.0.1 secure.leadback.advertising.com
-127.0.0.1 carrick-ui.advoncommerce.com
 127.0.0.1 e-11666.adzerk.net
 127.0.0.1 tracking.aegpresents.com
 127.0.0.1 apm-receiver.afafb.com
@@ -136,7 +135,6 @@
 127.0.0.1 kinesis.eu-west-1.amazonaws.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 client.rum.us-east-1.amazonaws.com
-127.0.0.1 dataplane.rum.us-east-1.amazonaws.com
 127.0.0.1 ad-host-backup-america.s3.us-west-1.amazonaws.com
 127.0.0.1 adpearance.s3.us-west-2.amazonaws.com
 127.0.0.1 regionconfig.amplitude.com
@@ -172,7 +170,6 @@
 127.0.0.1 dls2s.appsflyer.com
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 gcd-s2s.appsflyer.com
-127.0.0.1 impression.appsflyer.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 c2s.sdkless.appsflyer.com
 127.0.0.1 websdk.appsflyer.com
@@ -743,7 +740,6 @@
 127.0.0.1 decision.flagship.io
 127.0.0.1 ad-events.flashtalking.com
 127.0.0.1 cdn.flashtalking.com
-127.0.0.1 d9.flashtalking.com
 127.0.0.1 ue.flipboard.com
 127.0.0.1 api.ads.flurry.com
 127.0.0.1 data.flurry.com
@@ -755,7 +751,6 @@
 127.0.0.1 analytics.app.funnelish.com
 127.0.0.1 cdn.funnelytics.io
 127.0.0.1 deapi.funsdata.com
-127.0.0.1 sommelier.futurehybrid.tech
 127.0.0.1 s.adex2.fwmrm.net
 127.0.0.1 29773.v.fwmrm.net
 127.0.0.1 dau.fyber.com
@@ -786,8 +781,6 @@
 127.0.0.1 gnsnpaw.com
 127.0.0.1 sw88.go.com
 127.0.0.1 tredir.go.com
-127.0.0.1 google-analytics.com
-127.0.0.1 ade.googlesyndication.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 googletagservices.com
 127.0.0.1 ota-cache1.googlezip.net
